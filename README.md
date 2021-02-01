@@ -1,23 +1,34 @@
-### Hi there 👋 I'm Marco "ScardracS" Scardovi
+# Hi there <img src="https://github.com/scardracs/scardracs/blob/master/.github/wave.gif" width=20px> I'm Marco "scardracs" Scardovi
 
-🔭 Working on
- - My blog www.scardracs.blog and my PinePhone
- - 
- 
-📫 You can reach me out
- - E-Mail - mailto:marcoscardovi@protonmail.com
- - Twitter - https://www.twitter.com/ScardracS
- 
-😄 Please consider to send me a coffee if I have helped you:
- - For PayPal www.paypal.me/ScardracS
- - For patreons: https://liberapay.com/ScardracS/donate
- - For Bitcoins: 3KoCvKwhygKLM9DHXhJenpXZJfMZvohMZV
- - For Monero: 8BN9woVJ6GCWcD2N6RBvE6MVSBstufj5YMhd9iP99UdfjWFtGSwmG3iHWJaXEGWnyUbX8qvmXKWJgQDqbTmAF1iNUUSdTpr
+### WakaTime!
 
-### 📈 My Stats!
-![ScardracS's Github Stats](https://github-readme-stats.vercel.app/api?username=scardracs&show_icons=true&theme=radical)
-<!--
-**ScardracS/ScardracS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![scardracs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=scardracs)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🔭 I’m currently working on!
+ - My blog [scardracs.blog](https://www.scardracs.blog)
+ - My PinePhone
+ - Gentoo proxy maintainer at [gentoo official repo](https://www.github.com/gentoo/gentoo). A list of maintained packages can be found [here](https://packages.gentoo.org/maintainer/marco@scardovi.com)
+ - Guru proxy maintainer at [GURU project](https://gitweb.gentoo.org/repo/proj/guru/guru.git)
+ 
+### 📫 You can reach me out on these ways!
+ - E-Mail - [marco@scardovi.com](mailto:marco@scardovi.com)
+ - Twitter - [scardracs](https://www.twitter.com/ScardracS)
+ 
+### 😄 Please consider to send me a coffee if I have helped you!
+ - [PayPal](https://paypal.me/ScardracS)
+ - [LiberaPay](https://liberapay.com/scardracs/donate)
+ 
+### ⚡ Fun fact:
+ - The first PC I've ever used was with Windows 3.1
+ - Miynickname is written scardracs, not ScardracS or Scardracs or scardracS.
+ - I have NEVER used MacOS or another apple based OS
+ - BTW I'm using Gentoo
+ - Java is a piece of shit
+ - scardracs is the palyndrome of half my surname (Scardovi)
+ - I have 5 brothers and 4 sisters. And yes, my parents have TV at home
+ - BTW I have a cat
+
+<!-- **scardracs/scardracs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
