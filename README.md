@@ -8,7 +8,7 @@
  - My blog [scardracs.blog](https://www.scardracs.blog)
  - My PinePhone
  - Gentoo proxy maintainer at [gentoo official repo](https://www.github.com/gentoo/gentoo). A list of maintained packages can be found [here](https://packages.gentoo.org/maintainer/marco@scardovi.com)
- - Guru proxy maintainer at [GURU project](https://gitweb.gentoo.org/repo/proj/guru/guru.git)
+ - Guru proxy maintainer at [GURU project](https://gitweb.gentoo.org/repo/proj/guru.git)
  
 ### 📫 You can reach me out on these ways!
  - E-Mail - [marco@scardovi.com](mailto:marco@scardovi.com)
