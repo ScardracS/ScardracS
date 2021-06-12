@@ -1,9 +1,5 @@
 # Hi there <img src="https://github.com/scardracs/scardracs/blob/master/.github/wave.gif" width=20px> I'm Marco "scardracs" Scardovi
 
-### WakaTime!
-
-[![scardracs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=scardracs)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🔭 I’m currently working on!
  - My blog [scardracs.blog](https://www.scardracs.blog)
  - My PinePhone
